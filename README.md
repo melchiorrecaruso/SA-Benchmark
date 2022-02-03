@@ -5,7 +5,7 @@ Simulated annealing (SA) is a probabilistic technique for approximating the glob
 
 Here you ca find a simple SA implementation with Pascal language and an example of benchmark using Hölder table function.
 
-![plot](plot/plot.png)
+![Hölder table function](plot\plot.png)
 
 ## LICENSE
 
