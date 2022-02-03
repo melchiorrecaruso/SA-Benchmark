@@ -1,5 +1,4 @@
-# SA-Benchmark
-## Simulated Annealing Benchmark
+# Simulated Annealing Benchmark
 
 Simulated annealing (SA) is a probabilistic technique for approximating the global optimum of a given function.
 
