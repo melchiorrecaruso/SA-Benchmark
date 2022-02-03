@@ -1,2 +1,2 @@
-# SA-Benchmark-
+# SA-Benchmark
 Simulated Annealing Benchmark
