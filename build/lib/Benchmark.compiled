@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\FPC\3.2.2\bin\i386-Win32\fpc.exe" Date="1387234542"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiC:\Users\quacquero\Desktop\forum\build\lib -FuC:\Users\quacquero\Desktop\forum\src -FuC:\Users\quacquero\Desktop\forum\ -FUC:\Users\quacquero\Desktop\forum\build\lib\ -FEC:\Users\quacquero\Desktop\forum\build\ -oC:\Users\quacquero\Desktop\forum\build\Benchmark.exe Benchmark.pas"/>
+</CONFIG>
